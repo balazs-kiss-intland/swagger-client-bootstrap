@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="swager-client-bootstrap.main" target="1.8" />
+      <module name="swager-client-bootstrap.swagger-client-sdk.main" target="1.7" />
+      <module name="swager-client-bootstrap.swagger-client-sdk.test" target="1.7" />
+      <module name="swager-client-bootstrap.swagger-client.main" target="1.8" />
+      <module name="swager-client-bootstrap.swagger-client.test" target="1.8" />
+      <module name="swager-client-bootstrap.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
